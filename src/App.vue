@@ -6,9 +6,13 @@
   <router-view/>
 </template>
 
-<script>
+<script>  
 
   export default {
+
+    created() {
+      this.$store.dispatch('loadProducts');
+    }
 
   }
   
