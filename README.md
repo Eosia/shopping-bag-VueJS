@@ -1,5 +1,8 @@
 ### Shopping Bag VueJS
 
+#### Simple store in Vue JS
+ ##### Link: https://shopping-vue.js.eosia.dev
+
 
 ## Project setup
 ```
